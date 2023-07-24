@@ -1,16 +1,10 @@
-# sunrule2
+# e-commerce mini
 
-A new Flutter project.
+a mini e commerce flutter app using firebase and provider
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/InShad7/e-commerce_mini/assets/86614144/05eaad91-329a-4244-9270-06e2a8d56fa7
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2023-07-24_15-53-18](https://github.com/InShad7/e-commerce_mini/assets/86614144/cc4b68b1-af68-418c-91eb-816554ec9d90)
